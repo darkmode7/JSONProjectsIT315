@@ -3,7 +3,7 @@
   [
       {"AircraftName":"Boeing 737 Max 10",
         "AircraftDescription":"3.6",
-        "AircraftPassenger":"5.0",
+        "AircraftPassenger":"230",
         "AircraftRange":"8 Cores",
         "AircraftValue":"16 Threads",
         "AircraftImage":"LGA 1151",
@@ -13,7 +13,7 @@
       
       {"AircraftName":"Boeing 747-800",
         "AircraftDescription":"3.6",
-        "AircraftPassenger":"5.0",
+        "AircraftPassenger":"410",
         "AircraftRange":"8 Cores",
         "AircraftValue":"16 Threads",
         "AircraftImage":"LGA 1151",
@@ -23,7 +23,7 @@
       
       {"AircraftName":"Boeing 777X",
         "AircraftDescription":"3.6",
-        "AircraftPassenger":"5.0",
+        "AircraftPassenger":"426",
         "AircraftRange":"8 Cores",
         "AircraftValue":"16 Threads",
         "AircraftImage":"LGA 1151",
@@ -33,7 +33,7 @@
       
       {"AircraftName":"Boeing 787-10 DreamLiner",
         "AircraftDescription":"3.6",
-        "AircraftPassenger":"5.0",
+        "AircraftPassenger":"336",
         "AircraftRange":"8 Cores",
         "AircraftValue":"16 Threads",
         "AircraftImage":"LGA 1151",
@@ -43,7 +43,7 @@
       
       {"AircraftName":"Airbus 350-1000",
         "AircraftDescription":"3.6",
-        "AircraftPassenger":"5.0",
+        "AircraftPassenger":"440",
         "AircraftRange":"8 Cores",
         "AircraftValue":"16 Threads",
         "AircraftImage":"LGA 1151",
@@ -53,17 +53,7 @@
       
       {"AircraftName":"Airbus 380",
         "AircraftDescription":"3.6",
-        "AircraftPassenger":"5.0",
-        "AircraftRange":"8 Cores",
-        "AircraftValue":"16 Threads",
-        "AircraftImage":"LGA 1151",
-        "AircraftSite":"https://www.microcenter.com/product/512483/intel-core-i9-9900k-coffee-lake-36ghz-eight-core-lga-1151-boxed-processor",
-        "cpuimg":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/512483_831362_01_front_thumbnail.jpg",
-        "desc":"CPU"},
-      
-      {"AircraftName":"Intel i9-9900k",
-        "AircraftDescription":"3.6",
-        "AircraftPassenger":"5.0",
+        "AircraftPassenger":"853",
         "AircraftRange":"8 Cores",
         "AircraftValue":"16 Threads",
         "AircraftImage":"LGA 1151",
