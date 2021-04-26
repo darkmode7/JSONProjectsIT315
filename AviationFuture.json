@@ -6,9 +6,11 @@
         "AircraftPassenger":"230",
         "AircraftRange":"3300.4",
         "AircraftValue":"112.6",
-        "AircraftImage":"https://raw.githubusercontent.com/darkmode7/JSONProjectsIT315/master/737max.jpg",
+       "AircraftImage":"https://raw.githubusercontent.com/darkmode7/JSONProjectsIT315/master/737max.jpg",
         "AircraftSite":"https://www.boeing.com/commercial/737max/",
+        "AircraftID":"1",
         "desc":"CPU"},
+      
       
       {"AircraftName":"Boeing 747-800",
         "AircraftDescription":"3.6",
@@ -17,6 +19,7 @@
         "AircraftValue":"220.40",
         "AircraftImage":"https://raw.githubusercontent.com/darkmode7/JSONProjectsIT315/master/747.jpg",
         "AircraftSite":"https://www.boeing.com/commercial/747/",
+        "AircraftID":"2",
         "desc":"CPU"},
       
       {"AircraftName":"Boeing 777X",
@@ -26,6 +29,7 @@
         "AircraftValue":"442.2",
         "AircraftImage":"https://raw.githubusercontent.com/darkmode7/JSONProjectsIT315/master/B777.jpg",
         "AircraftSite":"https://www.boeing.com/commercial/777x/",
+        "AircraftID":"3",
         "desc":"CPU"},
       
       {"AircraftName":"Boeing 787-10 DreamLiner",
@@ -35,6 +39,7 @@
         "AircraftValue":"295.7",
         "AircraftImage":"https://raw.githubusercontent.com/darkmode7/JSONProjectsIT315/master/B777.jpg",
         "AircraftSite":"https://www.boeing.com/commercial/787/",
+        "AircraftID":"4",
         "desc":"CPU"},
       
       {"AircraftName":"Airbus 350-1000",
@@ -44,6 +49,7 @@
         "AircraftValue":"366.2",
         "AircraftImage":"https://raw.githubusercontent.com/darkmode7/JSONProjectsIT315/master/350.jpg",
         "AircraftSite":"https://www.airbus.com/aircraft/passenger-aircraft/a350xwb-family/a350-1000.html",
+        "AircraftID":"5",
         "desc":"CPU"},
       
       {"AircraftName":"Airbus 380",
@@ -53,6 +59,7 @@
         "AircraftValue":"445.6",
         "AircraftImage":"https://github.com/darkmode7/JSONProjectsIT315/blob/master/380.jpg",
         "AircraftSite":"https://www.airbus.com/aircraft/passenger-aircraft/a380/innovation.html",
+        "AircraftID":"6",
         "desc":"CPU"}
     ],
   "Status":"OK"
