@@ -1,7 +1,7 @@
 {
   "AircraftBase":
   [
-      {"AircraftName":"Intel i9-9900k",
+      {"AircraftName":"Boeing 737 Max 10",
         "AircraftDescription":"3.6",
         "AircraftPassenger":"5.0",
         "AircraftRange":"8 Cores",
@@ -11,7 +11,7 @@
         "cpuimg":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/512483_831362_01_front_thumbnail.jpg",
         "desc":"CPU"},
       
-      {"AircraftName":"Intel i9-9900k",
+      {"AircraftName":"Boeing 747-800",
         "AircraftDescription":"3.6",
         "AircraftPassenger":"5.0",
         "AircraftRange":"8 Cores",
@@ -21,7 +21,7 @@
         "cpuimg":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/512483_831362_01_front_thumbnail.jpg",
         "desc":"CPU"},
       
-      {"AircraftName":"Intel i9-9900k",
+      {"AircraftName":"Boeing 777X",
         "AircraftDescription":"3.6",
         "AircraftPassenger":"5.0",
         "AircraftRange":"8 Cores",
@@ -31,7 +31,7 @@
         "cpuimg":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/512483_831362_01_front_thumbnail.jpg",
         "desc":"CPU"},
       
-      {"AircraftName":"Intel i9-9900k",
+      {"AircraftName":"Boeing 787-10 DreamLiner",
         "AircraftDescription":"3.6",
         "AircraftPassenger":"5.0",
         "AircraftRange":"8 Cores",
@@ -41,7 +41,7 @@
         "cpuimg":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/512483_831362_01_front_thumbnail.jpg",
         "desc":"CPU"},
       
-      {"AircraftName":"Intel i9-9900k",
+      {"AircraftName":"Airbus 350-1000",
         "AircraftDescription":"3.6",
         "AircraftPassenger":"5.0",
         "AircraftRange":"8 Cores",
@@ -51,7 +51,7 @@
         "cpuimg":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/512483_831362_01_front_thumbnail.jpg",
         "desc":"CPU"},
       
-      {"AircraftName":"Intel i9-9900k",
+      {"AircraftName":"Airbus 380",
         "AircraftDescription":"3.6",
         "AircraftPassenger":"5.0",
         "AircraftRange":"8 Cores",
