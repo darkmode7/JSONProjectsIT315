@@ -6,7 +6,7 @@
         "AircraftPassenger":"230",
         "AircraftRange":"3300.4",
         "AircraftValue":"112.6",
-        "AircraftImage":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/512483_831362_01_front_thumbnail.jpg",
+        "AircraftImage":"https://raw.githubusercontent.com/darkmode7/JSONProjectsIT315/master/737max.jpg",
         "AircraftSite":"https://www.boeing.com/commercial/737max/",
         "desc":"CPU"},
       
@@ -15,7 +15,7 @@
         "AircraftPassenger":"410",
         "AircraftRange":"7730.54",
         "AircraftValue":"220.40",
-        "AircraftImage":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/512483_831362_01_front_thumbnail.jpg",
+        "AircraftImage":"https://raw.githubusercontent.com/darkmode7/JSONProjectsIT315/master/747.jpg",
         "AircraftSite":"https://www.boeing.com/commercial/747/",
         "desc":"CPU"},
       
@@ -24,7 +24,7 @@
         "AircraftPassenger":"426",
         "AircraftRange":"7285.33",
         "AircraftValue":"442.2",
-        "AircraftImage":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/512483_831362_01_front_thumbnail.jpg",
+        "AircraftImage":"https://raw.githubusercontent.com/darkmode7/JSONProjectsIT315/master/B777.jpg",
         "AircraftSite":"https://www.boeing.com/commercial/777x/",
         "desc":"CPU"},
       
@@ -33,7 +33,7 @@
         "AircraftPassenger":"336",
         "AircraftRange":"7530.32",
         "AircraftValue":"295.7",
-        "AircraftImage":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/512483_831362_01_front_thumbnail.jpg",
+        "AircraftImage":"https://raw.githubusercontent.com/darkmode7/JSONProjectsIT315/master/B777.jpg",
         "AircraftSite":"https://www.boeing.com/commercial/787/",
         "desc":"CPU"},
       
@@ -42,7 +42,7 @@
         "AircraftPassenger":"440",
         "AircraftRange":"10004.3",
         "AircraftValue":"366.2",
-        "AircraftImage":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/512483_831362_01_front_thumbnail.jpg",
+        "AircraftImage":"https://raw.githubusercontent.com/darkmode7/JSONProjectsIT315/master/350.jpg",
         "AircraftSite":"https://www.airbus.com/aircraft/passenger-aircraft/a350xwb-family/a350-1000.html",
         "desc":"CPU"},
       
@@ -51,7 +51,7 @@
         "AircraftPassenger":"853",
         "AircraftRange":"9196.30",
         "AircraftValue":"445.6",
-        "AircraftImage":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/512483_831362_01_front_thumbnail.jpg",
+        "AircraftImage":"https://github.com/darkmode7/JSONProjectsIT315/blob/master/380.jpg",
         "AircraftSite":"https://www.airbus.com/aircraft/passenger-aircraft/a380/innovation.html",
         "desc":"CPU"}
     ],
