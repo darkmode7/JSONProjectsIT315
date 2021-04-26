@@ -2,7 +2,7 @@
   "AviationFuture":
   [
       {"AircraftName":"Boeing 737 Max 10",
-        "AircraftDescription":"3.6",
+        "AircraftDescription":"The 737 MAX family is designed to offer the greatest flexibility, reliability and efficiency in the single-aisle market. Every airplane will feature the new Boeing Sky Interior, highlighted by modern sculpted sidewalls and window reveals, LED lighting that enhances the sense of spaciousness and larger pivoting overhead storage bins.",
         "AircraftPassenger":"230",
         "AircraftRange":"3300.4",
         "AircraftValue":"112.6",
@@ -13,7 +13,7 @@
       
       
       {"AircraftName":"Boeing 747-800",
-        "AircraftDescription":"3.6",
+        "AircraftDescription":"The First Class and Business Class sections of the 747-8 enable airlines to offer passengers the most private and premium accommodations in the sky. So it's no surprise that on high-volume routes the 747-8 offers premium revenue potential. And with more than 400 seats available, this 747 creates a unique opportunity to maximize the bottom-line potential of any high-volume route. It's premium value, delivered, for operators and passengers. That's a better way to fly.",
         "AircraftPassenger":"410",
         "AircraftRange":"7730.54",
         "AircraftValue":"220.40",
@@ -23,7 +23,7 @@
         "desc":"CPU"},
       
       {"AircraftName":"Boeing 777X",
-        "AircraftDescription":"3.6",
+        "AircraftDescription":"The new Boeing 777X will be the world’s largest and most efficient twin-engine jet, unmatched in every aspect of performance. With new breakthroughs in aerodynamics and engines, the 777X will deliver 10 percent lower fuel use and emissions and 10 percent lower operating costs than the competition. A true family, the 777X offers low-risk, profitable growth, industry-leading reliability and seamless integration with the 777 and 787 Dreamliner families for even more flexibility. But performance is just part of the story. With a spacious, wide cabin, new custom architecture and innovations from the 787 Dreamliner, the 777X will deliver the flight experience of the future.",
         "AircraftPassenger":"426",
         "AircraftRange":"7285.33",
         "AircraftValue":"442.2",
@@ -33,7 +33,7 @@
         "desc":"CPU"},
       
       {"AircraftName":"Boeing 787-10 DreamLiner",
-        "AircraftDescription":"3.6",
+        "AircraftDescription":"The industry-leading technology of the 787 Dreamliner is creating remarkable opportunities for airlines around the world and dramatically improving the air travel experience. We call it the Dreamliner effect. The airplane's unparalleled fuel efficiency and range flexibility enables carriers to profitably open new routes as well as optimize fleet and network performance. And for their passengers, an experience like none other in the air, with more comfort and less fatigue. The Dreamliner effect. That's a better way to fly.",
         "AircraftPassenger":"336",
         "AircraftRange":"7530.32",
         "AircraftValue":"295.7",
@@ -43,7 +43,7 @@
         "desc":"CPU"},
       
       {"AircraftName":"Airbus 350-1000",
-        "AircraftDescription":"3.6",
+        "AircraftDescription":"Measuring nearly 74 metres from nose-to-tail, the A350-1000 is the longest-fuselage version of Airbus’ all-new family of twin-aisle, wide-body jetliners. In a typical three-class configuration, featuring the company’s 18-inch-wide economy class seats for modern comfort, the A350-1000 seats between 350 and 410 passengers – who can expect a spacious and quiet cabin, wider seats and elegant ambient lighting that contributes to a beautiful interior while also minimising the effects of jetlag. The aircraft entered into service in February 2018.",
         "AircraftPassenger":"440",
         "AircraftRange":"10004.3",
         "AircraftValue":"366.2",
@@ -53,7 +53,7 @@
         "desc":"CPU"},
       
       {"AircraftName":"Airbus 380",
-        "AircraftDescription":"3.6",
+        "AircraftDescription":"Greener, cleaner, quieter and smarter, the A380 is setting a new standard for the global aviation industry with its superior efficiency, profitability and operational effectiveness.Not only is it setting new passenger comfort standards, the A380 also is raising the bar for environmental standards with its low fuel consumption and noise levels – as well as reduced CO2 and NOx emissions.",
         "AircraftPassenger":"853",
         "AircraftRange":"9196.30",
         "AircraftValue":"445.6",
